@@ -1,2 +1,2 @@
 Before setting up Git.
-After setting up Got.
+After setting up Git.
